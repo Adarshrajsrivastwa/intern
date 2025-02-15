@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.heading{
+  text-align: center;
+  font-size: 5em;
+  margin-bottom: 2em;
+  margin-top: 10vh;
+}
+.text{
+  margin-left: 20vw;
+  width: 50vw;
+  height:5vh;
+}
+
+.work{
+  margin-left: 20vw;
+  font-size: 3vh;
+}
+
+.btn{
+  height: 5vh;
+}
